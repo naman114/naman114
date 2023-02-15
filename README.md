@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **naman114/naman114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello World 👋
+
+- 🔭 I'm Naman Gogia, undergrad @DTU (DCE). I love to build products for the web
+- 🌱 I’m currently exploring CI/CD
+- ⚙️ Languages I frequently use: `.ts`, `.js`, `.cpp`, `.py`
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/namangogia/) [Email](namangogia2001@gmail.com)
+- 😄 Pronouns: He/Him
+
+![](https://komarev.com/ghpvc/?username=naman114)
